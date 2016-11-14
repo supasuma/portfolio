@@ -4,6 +4,10 @@
   "version": "3.3.7+1",
   "homepage": "http://startbootstrap.com/template-overviews/freelancer",
   "author": "Start Bootstrap",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "node gulpfile.js"
+  },
   "license": {
     "type": "MIT",
     "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
@@ -27,8 +31,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
-  },
-  "scripts": {
-    "start": "node gulpfile.js"
   }
 }
